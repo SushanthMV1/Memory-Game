@@ -1,0 +1,61 @@
+body {
+  background-color: #b5c0d0;
+  font-family: sans-serif;
+}
+
+/* Title */
+.title {
+  text-align: center;
+}
+
+/* Game */
+.Row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 100px;
+  width: 100%;
+  margin: 20px 0px;
+}
+
+.Card {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.black {
+  background-color: black;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.hidden {
+  background-color: #ddd;
+}
